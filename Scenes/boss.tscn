@@ -1,0 +1,47 @@
+[gd_scene load_steps=5 format=3 uid="uid://k2rsrgkr2ev7"]
+
+[ext_resource type="Script" uid="uid://b53xbtepw5tc4" path="res://Scenes/test_boss.gd" id="1_8flpb"]
+[ext_resource type="SpriteFrames" uid="uid://dncwauj6upk3" path="res://boss_test_sprites.tres" id="2_wwfse"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wwfse"]
+size = Vector2(355, 434.5)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_wwfse"]
+bg_color = Color(1, 0.20784314, 0.20784314, 1)
+corner_radius_top_left = 3
+corner_radius_top_right = 3
+corner_radius_bottom_right = 3
+corner_radius_bottom_left = 3
+
+[node name="TestBoss" type="CharacterBody2D"]
+script = ExtResource("1_8flpb")
+max_health = 50.0
+damage_per_hit = 15.0
+float_speed = 30.0
+move_time = 1.0
+wait_time = 2.0
+shots_per_attack = 1
+shot_spread = 0.1
+
+[node name="ShootTimer" type="Timer" parent="."]
+wait_time = 2.0
+autostart = true
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(-1.375, -52.125)
+scale = Vector2(0.25, 0.25)
+sprite_frames = ExtResource("2_wwfse")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-0.625, -54.3125)
+scale = Vector2(0.25, 0.25)
+shape = SubResource("RectangleShape2D_wwfse")
+
+[node name="HealthBar" type="ProgressBar" parent="."]
+custom_minimum_size = Vector2(100, 10)
+offset_left = -50.0
+offset_top = -124.0
+offset_right = 50.0
+offset_bottom = -116.0
+theme_override_styles/fill = SubResource("StyleBoxFlat_wwfse")
+show_percentage = false

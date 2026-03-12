@@ -1,0 +1,113 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1773279336
+boss_phone_sprites.tres::SpriteFrames::8394873482025654181::1773274669::0::1::::<><><>0<>0<><>::uid://e14fcjyseu5n::::res://brackeys_platformer_assets (2)/sprites/PhoneBoss.png
+boss_test_sprites.tres::SpriteFrames::237564194515552220::1773275688::0::1::::<><><>0<>0<><>::uid://dk3m6j6htg4bs::::res://brackeys_platformer_assets (2)/sprites/TestBoss.png
+enemy_projectile.tscn::PackedScene::6558741476834752709::1773274669::0::1::::<><><>0<>0<><>::uid://bqbt124xtw8c4::::res://Scenes/enemy_projectile.gd<>uid://ctnma2ao3xl6r::::res://brackeys_platformer_assets (2)/sprites/Enenmy projectile.png
+export_presets.cfg::TextFile::-1::1773276397::0::1::::<><><>0<>0<><>::
+level_1.tres::TileSet::8595838250179677371::1773275688::0::1::::<><><>0<>0<><>::uid://cq2uwq5jnehro::::res://brackeys_platformer_assets (2)/sprites/world_tileset.png
+projectile.tscn::PackedScene::4831618010940014166::1773274670::0::1::::<><><>0<>0<><>::uid://cnsf2eowmorlx::::res://Scenes/projectile.gd<>uid://k0wio1csuou8::::res://brackeys_platformer_assets (2)/sprites/BennyProjectile.png
+victory_item.tscn::PackedScene::7675210550874479093::1773274670::0::1::::<><><>0<>0<><>::uid://dcbnohksa34fo::::res://Scenes/victory_item.gd<>uid://dnxammv4c3bjv::::res://brackeys_platformer_assets (2)/sprites/Victory item.png
+video_cutscene.gd::GDScript::8204865116384373051::1773274670::0::1::::<>Control<><>0<>0<><>::
+::res://audio/::1773274685
+New-Recording-234.ogg::AudioStreamOggVorbis::8952577602318830877::1773274669::1773274685::1::::<><><>0<>0<>c04c9ca3caa71b7df0b19e97a5f8558d<>res://.godot/imported/New-Recording-234.ogg-4f9b08296c3ddaf89457d0a09a96c91d.oggvorbisstr::
+::res://audio/sfx/::1773274686
+Benny Victory Level 1 !.mp3::AudioStreamMP3::149208768854625732::1773274669::1773274685::1::::<><><>0<>0<>a2d837cf4d673fad9a8cd349d9eb4f5b<>res://.godot/imported/Benny Victory Level 1 !.mp3-9e0faf40eee3dd3da1ae24197f76ef06.mp3str::
+Benny Victory Level 2.mp3::AudioStreamMP3::9000692521705086392::1773274669::1773274685::1::::<><><>0<>0<>35fb5d4d7bb62e3e8d0245bf1781e187<>res://.godot/imported/Benny Victory Level 2.mp3-909f8022a40fb0ed462a5bfdcb502a12.mp3str::
+benny_acing_this.mp3::AudioStreamMP3::3244232647463048483::1773274669::1773274685::1::::<><><>0<>0<>718f7ed353d91ab236abe0a1bac2f9a2<>res://.godot/imported/benny_acing_this.mp3-3dd171205e549e6c461bf55c5cf1d6d6.mp3str::
+benny_ack.mp3::AudioStreamMP3::734890047062432458::1773274669::1773274685::1::::<><><>0<>0<>c1c83e396e61a26bd09c47b51db2b57e<>res://.godot/imported/benny_ack.mp3-70bd7380982f786a4d846b6716178f23.mp3str::
+benny_ahh.mp3::AudioStreamMP3::7817821350298922859::1773274669::1773274685::1::::<><><>0<>0<>8518d6aa3283933d345f299ea413d828<>res://.godot/imported/benny_ahh.mp3-cc05d9fc3b58bc8250940d9a9960e567.mp3str::
+benny_nooooo.mp3::AudioStreamMP3::1383272098575194661::1773274669::1773274685::1::::<><><>0<>0<>2666dcf1686500bda4e7d4890912a1ad<>res://.godot/imported/benny_nooooo.mp3-5ea2ab05cca4477864df38225a3fa932.mp3str::
+benny_oh_yeah.mp3::AudioStreamMP3::7826790218255562761::1773274669::1773274685::1::::<><><>0<>0<>be46eae76d9d2dd9581dd777ef6d7210<>res://.godot/imported/benny_oh_yeah.mp3-5a5ff9e531bcff605db8489da6092769.mp3str::
+benny_oof.mp3::AudioStreamMP3::4071956950790762549::1773274669::1773274685::1::::<><><>0<>0<>4fa151fddaff4652f397cc40e7c96460<>res://.godot/imported/benny_oof.mp3-0c1143b467cae15c1239b43d60cfc9c5.mp3str::
+benny_ouch.mp3::AudioStreamMP3::7423873026902900427::1773274669::1773274685::1::::<><><>0<>0<>14309b542c38e8044bd9ba180cb2ccb0<>res://.godot/imported/benny_ouch.mp3-e9a7ba927221bd84f9be1709a2614070.mp3str::
+benny_yippee.mp3::AudioStreamMP3::346084115863672212::1773274669::1773274685::1::::<><><>0<>0<>01a06b525583a50f28c6186a6521f9c7<>res://.godot/imported/benny_yippee.mp3-ee41f9033954a71f9c47227fcefb6b1b.mp3str::
+coin.wav::AudioStreamWAV::8697178519602174425::1773274669::1773274685::1::::<><><>0<>0<>6381054171e8957eaf59c0e9b51baa7b<>res://.godot/imported/coin.wav-5b4ac6f94c17da9cce3726cce99d30c9.sample::
+hurt.wav::AudioStreamWAV::1426485618084730147::1773274669::1773274685::1::::<><><>0<>0<>6cc325dbaad38a486e959bb8f9391163<>res://.godot/imported/hurt.wav-070a1d90b4f20e0190267ae2225dc033.sample::
+jump.wav::AudioStreamWAV::3819083836301839999::1773274669::1773274686::1::::<><><>0<>0<>6a26f4731fa0b5184092c34f05a8b629<>res://.godot/imported/jump.wav-ca4ccb66e678679518a9b9888fc39709.sample::
+table defeat.mp3::AudioStreamMP3::7911115839629153218::1773274669::1773274685::1::::<><><>0<>0<>e37963338b11329f5142547e700b55fe<>res://.godot/imported/table defeat.mp3-9ebb2ac0768845d0fc721c50fc2024b9.mp3str::
+Table Mocking.mp3::AudioStreamMP3::3409948940711319411::1773274669::1773274685::1::::<><><>0<>0<>51df603a058233c2bcf00b354267f6e4<>res://.godot/imported/Table Mocking.mp3-90a2940e9565a29937702a4fc2386753.mp3str::
+::res://brackeys_platformer_assets (2)/::1773274675
+LICENSE & CREDITS.txt::TextFile::-1::1773274669::0::1::::<><><>0<>0<><>::
+::res://brackeys_platformer_assets (2)/fonts/::1773274685
+PixelOperator8-Bold.ttf::FontFile::8581264920314041122::1773274669::1773274685::1::::<><><>0<>0<>5a6ca76331096e1482aa1f4c0238e951<>res://.godot/imported/PixelOperator8-Bold.ttf-fbe989e0b3432e44f884e52d9df55dfc.fontdata::
+PixelOperator8.ttf::FontFile::1324939477738995419::1773274669::1773274685::1::::<><><>0<>0<>4eaec47eb172dc021b9b304f06c97bdc<>res://.godot/imported/PixelOperator8.ttf-4a1725f0b2153feef0c36f109e7ce0db.fontdata::
+::res://brackeys_platformer_assets (2)/music/::1773274685
+time_for_adventure.mp3::AudioStreamMP3::2830427227178912071::1773274669::1773274685::1::::<><><>0<>0<>9000ccafe07053b6be98d10a99771ca5<>res://.godot/imported/time_for_adventure.mp3-967e30cf9d71e5ab8823bf92dd08556b.mp3str::
+::res://brackeys_platformer_assets (2)/sounds/::1773274686
+explosion.wav::AudioStreamWAV::3641865651120974824::1773274669::1773274686::1::::<><><>0<>0<>229e8fd0f457e393cb5e81524acdb425<>res://.godot/imported/explosion.wav-297a08322f23721c45d8c8c71b03b671.sample::
+power_up.wav::AudioStreamWAV::2652171483894167342::1773274669::1773274686::1::::<><><>0<>0<>8de6da4ce0840b6b847db12f7d365d7a<>res://.godot/imported/power_up.wav-ca3f40af2f83bb2b7841ed7f5c5322c3.sample::
+tap.wav::AudioStreamWAV::3643935818046297706::1773274669::1773274686::1::::<><><>0<>0<>a35bd9cc916e093b8b9e3ccb92e8a6c2<>res://.godot/imported/tap.wav-b6be522c009e626fdfa117dd1b0494b1.sample::
+::res://brackeys_platformer_assets (2)/sprites/::1773274686
+Benny.png::CompressedTexture2D::3640067090861437552::1773274669::1773274686::1::::<><><>0<>0<>285dbe387f7aa4de00e00a81dfda759f<>res://.godot/imported/Benny.png-10d0693cb97d7975ba4c25549cbb7311.ctex::
+BennyProjectile.png::CompressedTexture2D::754848716031464321::1773274669::1773274686::1::::<><><>0<>0<>6502e3304de3ead755626e54a249ab1e<>res://.godot/imported/BennyProjectile.png-1f7c07a6aa1210829c02c2baf3674605.ctex::
+coin.png::CompressedTexture2D::9017634340972606075::1773274669::1773274686::1::::<><><>0<>0<>df2fd5a4bcadb1fc11f460e59b85d3c5<>res://.godot/imported/coin.png-10609d732d91c02b0a0f32fff0b87b98.ctex::
+Collectible.png::CompressedTexture2D::3455633349924829509::1773274669::1773274686::1::::<><><>0<>0<>4bca303322f280c1ee0e9a90c57ccc47<>res://.godot/imported/Collectible.png-032ba6bb3617827a0ff0f8b8b4565e4e.ctex::
+enemy.png::CompressedTexture2D::2401424491777256607::1773274669::1773274686::1::::<><><>0<>0<>3a07113ead30ab68aedd99cba866bc4f<>res://.godot/imported/enemy.png-40edfaa5626644809cb5c09fc4919eb0.ctex::
+Enenmy projectile.png::CompressedTexture2D::6133996330029677075::1773274669::1773274686::1::::<><><>0<>0<>e4bc639b49b28b72a597a759e2840e47<>res://.godot/imported/Enenmy projectile.png-bceee18fd491ef3948c0efdfe096b475.ctex::
+fruit.png::CompressedTexture2D::5843200638565944576::1773274669::1773274685::1::::<><><>0<>0<>a33a5cde86c279550ff42561dba7b893<>res://.godot/imported/fruit.png-b6e303d032bea6295f62457cf2193b40.ctex::
+icon.svg::CompressedTexture2D::1095203683217612796::1773274669::1773274685::1::::<><><>0<>0<>008d635569fdbfcaed16fef698229b69<>res://.godot/imported/icon.svg-d894054dd42963c8fb39762d583bc729.ctex::
+knight.png::CompressedTexture2D::9179538840069311439::1773274669::1773274685::1::::<><><>0<>0<>c26125b8da43e5b23da2c86c5cb4ce1d<>res://.godot/imported/knight.png-f365464319043a71e46125716fb54ed5.ctex::
+PhoneBoss.png::CompressedTexture2D::336199037982061273::1773274669::1773274686::1::::<><><>0<>0<>1377e4c5bf6361c51abf0bed4bce5535<>res://.godot/imported/PhoneBoss.png-4aa8eabf24621aefc7677ea9eb132376.ctex::
+platforms.png::CompressedTexture2D::61783786452774896::1773274669::1773274685::1::::<><><>0<>0<>e4eb29338d9e1b7f1a6b6d1f5bc0fef3<>res://.godot/imported/platforms.png-030f112a9d7af5f03d717680dd5fc42c.ctex::
+slime_green.png::CompressedTexture2D::7216927507609509178::1773274669::1773274685::1::::<><><>0<>0<>a8ed6b5946f7818cc776e590312470a4<>res://.godot/imported/slime_green.png-2d3c9111a94cf6150289f0774a813c4c.ctex::
+slime_purple.png::CompressedTexture2D::61525277445836328::1773274669::1773274685::1::::<><><>0<>0<>b4ff9e4688c6c5d0b1e7062e2a6c1a6c<>res://.godot/imported/slime_purple.png-567f273c7630fadd5d987dfbefc229bb.ctex::
+Table Platform.png::CompressedTexture2D::1847860374427968381::1773274669::1773274685::1::::<><><>0<>0<>1452f06f8622aad8966e28270bc9f65e<>res://.godot/imported/Table Platform.png-4d9d9f06a080b7d34467888bb35381bd.ctex::
+TestBoss.png::CompressedTexture2D::7919737549040346024::1773274669::1773274685::1::::<><><>0<>0<>a632efb790cab657e88d20563f4f7762<>res://.godot/imported/TestBoss.png-d8f8cec20fe85afcb67e65c03c055b02.ctex::
+Tile Set.png::CompressedTexture2D::3678244151935492428::1773274669::1773274685::1::::<><><>0<>0<>968dc7b47af612fac7057d2099345a66<>res://.godot/imported/Tile Set.png-e6e1d00f9d7544f89f0123e6b4563d51.ctex::
+Victory item.png::CompressedTexture2D::8119219800286454187::1773274669::1773274685::1::::<><><>0<>0<>6287b8dd2acaa31293cb0f18c93d3b15<>res://.godot/imported/Victory item.png-6c7dad198205d24057a91ef2f133d28a.ctex::
+world_tileset.png::CompressedTexture2D::5952855579419763068::1773274669::1773274685::1::::<><><>0<>0<>11f04e6ca7f5db0d7ff7bdd11b6f9af2<>res://.godot/imported/world_tileset.png-517d2fcd6b851b843d7ef27c41776e65.ctex::
+::res://cutscenes/::1773274675
+cutscene_level1.tscn::PackedScene::6281351328153680807::1773274669::0::1::::<><><>0<>0<><>::uid://do5q6u00yledn::::res://video_cutscene.gd
+cutscene_level2.tscn::PackedScene::2657806850519304534::1773274669::0::1::::<><><>0<>0<><>::uid://do5q6u00yledn::::res://video_cutscene.gd
+cutscene_level3.tscn::PackedScene::4241732206925702830::1773274669::0::1::::<><><>0<>0<><>::uid://do5q6u00yledn::::res://video_cutscene.gd
+::res://cutscenes/videos/::1773274675
+cutscene_level1.ogv::VideoStreamTheora::5320366629991703136::1773274669::0::1::::<><><>0<>0<><>::
+cutscene_level2.ogv::VideoStreamTheora::1331635737359480064::1773274669::0::1::::<><><>0<>0<><>::
+cutscene_level3.ogv::VideoStreamTheora::7629557414846470471::1773274669::0::1::::<><><>0<>0<><>::
+::res://docs/::1773277303
+index.apple-touch-icon.png::CompressedTexture2D::6619746387449438403::1773276397::1773276248::1::::<><><>0<>0<>64c5634aab2cb444e1129592fd97e9c0<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::1338492752332675495::1773276397::1773276248::1::::<><><>0<>0<>6e00b799b4c7ade92c4d53eba498d039<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::7248699682909353012::1773276397::1773276248::1::::<><><>0<>0<>b85292382cb588ce6d964ee549c34fd7<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://exports/::1773274675
+::res://exports/After The Bell/::1773274686
+index.apple-touch-icon.png::CompressedTexture2D::2285760522891069681::1773274669::1773274685::1::::<><><>0<>0<>adde1928a1328ded403d8494a5201015<>res://.godot/imported/index.apple-touch-icon.png-cc02fef2f1761455c96a9832679655d2.ctex::
+index.icon.png::CompressedTexture2D::2322382602359559894::1773274669::1773274685::1::::<><><>0<>0<>9201da628c326929fdaa90563304369c<>res://.godot/imported/index.icon.png-5fa5b66d347eb79378dd5843866b086d.ctex::
+index.png::CompressedTexture2D::9200949139274302640::1773274670::1773274686::1::::<><><>0<>0<>f638a69b50945385106e952700642171<>res://.godot/imported/index.png-896b51a10e8afed292ad72f836988659.ctex::
+::res://exports/Game/::1773274686
+index.apple-touch-icon.png::CompressedTexture2D::4423943173894145230::1773274670::1773274685::1::::<><><>0<>0<>14881a10e82495e0fe2876a65c16ba7b<>res://.godot/imported/index.apple-touch-icon.png-1f8b88bec23d25cbf90be3d443be6a09.ctex::
+index.icon.png::CompressedTexture2D::4470074878039024102::1773274670::1773274685::1::::<><><>0<>0<>4237d09d3e8a2de65ce11dcc4d14869c<>res://.godot/imported/index.icon.png-fa97977704cdba6570c1f13e8a635eee.ctex::
+index.png::CompressedTexture2D::6621035561103273991::1773274670::1773274686::1::::<><><>0<>0<>c376538cd6d5630bb8d82f7c5d9baf1f<>res://.godot/imported/index.png-167fe6c2eeb7a742784ab6818481a89e.ctex::
+::res://levels/::1773275688
+level_1.tscn::PackedScene::1609228227804485529::1773275688::0::1::::<><><>0<>0<><>::uid://dup5g2lh5ytx8::::res://level_1.tres<>uid://c7gdpkar8vycv::::res://Scenes/player.tscn<>uid://bj5uwym3jtb5s::::res://Scenes/ui.tscn<>uid://be6gwq074ql7r::::res://Scenes/collectible.tscn<>uid://hxpn5alvndj0::::res://Scenes/killzone.tscn<>uid://dncwauj6upk3::::res://boss_test_sprites.tres<>uid://k2rsrgkr2ev7::::res://Scenes/boss.tscn<>uid://ck0vh1xb028c8::::res://Scenes/enemy.tscn<>uid://cb5r4i8gq76xu::::res://Scenes/boss_trigger.tscn<>uid://d0sxv605ch5rl::::res://audio/New-Recording-234.ogg
+level_2.tscn::PackedScene::2826504156326249460::1773274670::0::1::::<><><>0<>0<><>::uid://dup5g2lh5ytx8::::res://level_1.tres<>uid://c7gdpkar8vycv::::res://Scenes/player.tscn<>uid://bj5uwym3jtb5s::::res://Scenes/ui.tscn<>uid://hxpn5alvndj0::::res://Scenes/killzone.tscn<>uid://be6gwq074ql7r::::res://Scenes/collectible.tscn<>uid://dtwuuwi7eosna::::res://Scenes/door.tscn<>uid://2am5o4j2axoe::::res://Scenes/boost_pad.tscn<>uid://d0sxv605ch5rl::::res://audio/New-Recording-234.ogg
+level_3.tscn::PackedScene::4567557211575012106::1773274670::0::1::::<><><>0<>0<><>::uid://bj5uwym3jtb5s::::res://Scenes/ui.tscn<>uid://dup5g2lh5ytx8::::res://level_1.tres<>uid://c7gdpkar8vycv::::res://Scenes/player.tscn<>uid://be6gwq074ql7r::::res://Scenes/collectible.tscn<>uid://ck0vh1xb028c8::::res://Scenes/enemy.tscn<>uid://2am5o4j2axoe::::res://Scenes/boost_pad.tscn<>uid://k2rsrgkr2ev7::::res://Scenes/boss.tscn<>uid://drusls0ii7iu4::::res://boss_phone_sprites.tres<>uid://cb5r4i8gq76xu::::res://Scenes/boss_trigger.tscn<>uid://hxpn5alvndj0::::res://Scenes/killzone.tscn<>uid://d0sxv605ch5rl::::res://audio/New-Recording-234.ogg
+::res://menus/::1773274675
+level_select.gd::GDScript::9217348767115861613::1773274670::0::1::::<>Control<><>0<>0<><>::
+level_select.tscn::PackedScene::6084374093459046287::1773274670::0::1::::<><><>0<>0<><>::uid://d4k7nf8g12n7b::::res://menus/level_select.gd<>uid://s42ta6nnu516::::res://brackeys_platformer_assets (2)/fonts/PixelOperator8.ttf
+main_menu.gd::GDScript::3225092601446220087::1773274670::0::1::::<>Control<><>0<>0<><>::
+main_menu.tscn::PackedScene::4644138318633162437::1773274670::0::1::::<><><>0<>0<><>::uid://bl7i2lmusaqn4::::res://menus/main_menu.gd<>uid://s42ta6nnu516::::res://brackeys_platformer_assets (2)/fonts/PixelOperator8.ttf
+::res://Ravenwood-TSA-VG-Design-Team-2-2026-main/::1773274675
+::res://Scenes/::1773274675
+audio_manager.gd::GDScript::3322985183524875138::1773274669::0::1::::<>Node<><>0<>0<><>::
+boost_pad.gd::GDScript::780908730381736870::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+boost_pad.tscn::PackedScene::1895881736528475852::1773274669::0::1::::<><><>0<>0<><>::uid://lejpnk2s7e51::::res://Scenes/boost_pad.gd<>uid://46tm31g1bo7::::res://brackeys_platformer_assets (2)/sprites/platforms.png
+boss.tscn::PackedScene::758691871551173282::1773274669::0::1::::<><><>0<>0<><>::uid://b53xbtepw5tc4::::res://Scenes/test_boss.gd<>uid://dncwauj6upk3::::res://boss_test_sprites.tres
+boss_trigger.gd::GDScript::2044974042166760298::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+boss_trigger.tscn::PackedScene::4906045992006934814::1773274669::0::1::::<><><>0<>0<><>::uid://4euon2du7tne::::res://Scenes/boss_trigger.gd
+collectible.gd::GDScript::40738183328866421::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+collectible.tscn::PackedScene::2731576238530632845::1773274669::0::1::::<><><>0<>0<><>::uid://ty7mos8y5sj::::res://Scenes/collectible.gd<>uid://d1qhec3r5upa6::::res://brackeys_platformer_assets (2)/sprites/coin.png<>uid://bph61nrt2ykth::::res://brackeys_platformer_assets (2)/sprites/Collectible.png
+door.gd::GDScript::3975050889376682777::1773274669::0::1::::<>StaticBody2D<><>0<>0<><>::
+door.tscn::PackedScene::8539517615856649650::1773274669::0::1::::<><><>0<>0<><>::uid://bwvsrisj7map2::::res://Scenes/door.gd<>uid://cq2uwq5jnehro::::res://brackeys_platformer_assets (2)/sprites/world_tileset.png
+enemy.gd::GDScript::8680683460940273411::1773274669::0::1::::<>CharacterBody2D<><>0<>0<><>::
+enemy.tscn::PackedScene::5527628206240998961::1773274669::0::1::::<><><>0<>0<><>::uid://dvw8uaebgxhuh::::res://Scenes/enemy.gd<>uid://bahjd01fj631t::::res://brackeys_platformer_assets (2)/sprites/enemy.png
+enemy_projectile.gd::GDScript::3512708077160859109::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+global.gd::GDScript::8902204373162818480::1773274669::0::1::::<>Node<><>0<>0<><>::
+killzone.gd::GDScript::263759940345457508::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+killzone.tscn::PackedScene::539738140250733935::1773274669::0::1::::<><><>0<>0<><>::uid://d01c8migkwoa::::res://Scenes/killzone.gd
+player.gd::GDScript::2890059987058949125::1773274669::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::7031480094265325841::1773274669::0::1::::<><><>0<>0<><>::uid://bhf74o2gvgsft::::res://Scenes/player.gd<>uid://br4jmxm6g2ki7::::res://brackeys_platformer_assets (2)/sprites/Benny.png
+projectile.gd::GDScript::5722807168389811649::1773274669::0::1::::<>Area2D<><>0<>0<><>::
+test_boss.gd::GDScript::4551287851410282205::1773274669::0::1::::<>CharacterBody2D<><>0<>0<><>::
+ui.gd::GDScript::4574379283032240768::1773274669::0::1::::<>CanvasLayer<><>0<>0<><>::
+ui.tscn::PackedScene::3081306516761447098::1773274669::0::1::::<><><>0<>0<><>::uid://s42ta6nnu516::::res://brackeys_platformer_assets (2)/fonts/PixelOperator8.ttf<>uid://b6f4mgnfrhtpo::::res://Scenes/ui.gd
+victory_item.gd::GDScript::7302518822060527308::1773274669::0::1::::<>Area2D<><>0<>0<><>::
